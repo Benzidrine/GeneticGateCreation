@@ -1,0 +1,11 @@
+/home/taran/Repos/GeneticGateCreation/obj/Debug/netcoreapp2.2/GeneticGateCreation.csprojAssemblyReference.cache
+/home/taran/Repos/GeneticGateCreation/obj/Debug/netcoreapp2.2/GeneticGateCreation.csproj.CoreCompileInputs.cache
+/home/taran/Repos/GeneticGateCreation/obj/Debug/netcoreapp2.2/GeneticGateCreation.AssemblyInfoInputs.cache
+/home/taran/Repos/GeneticGateCreation/obj/Debug/netcoreapp2.2/GeneticGateCreation.AssemblyInfo.cs
+/home/taran/Repos/GeneticGateCreation/bin/Debug/netcoreapp2.2/GeneticGateCreation.deps.json
+/home/taran/Repos/GeneticGateCreation/bin/Debug/netcoreapp2.2/GeneticGateCreation.runtimeconfig.json
+/home/taran/Repos/GeneticGateCreation/bin/Debug/netcoreapp2.2/GeneticGateCreation.runtimeconfig.dev.json
+/home/taran/Repos/GeneticGateCreation/bin/Debug/netcoreapp2.2/GeneticGateCreation.dll
+/home/taran/Repos/GeneticGateCreation/bin/Debug/netcoreapp2.2/GeneticGateCreation.pdb
+/home/taran/Repos/GeneticGateCreation/obj/Debug/netcoreapp2.2/GeneticGateCreation.dll
+/home/taran/Repos/GeneticGateCreation/obj/Debug/netcoreapp2.2/GeneticGateCreation.pdb
